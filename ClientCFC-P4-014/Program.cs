@@ -28,4 +28,4 @@ namespace ClientCFC_P4_014
             Koordinat objk = new Koordinat();
         }
     }
-}
+}//20180140014
